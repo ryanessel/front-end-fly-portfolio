@@ -59,6 +59,10 @@ import {
       </li>
 
       <li>
+      ・DOM manipulation
+      </li>
+
+      <li>
       ・Handlebars
       </li>
 
